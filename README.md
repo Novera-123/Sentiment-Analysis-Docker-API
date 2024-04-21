@@ -10,9 +10,8 @@ elcome to the Text Classification API repository! This API utilizes a pre-traine
 ## Prerequisites
 Before you begin, ensure you have Docker installed on your machine. If you don't have Docker yet, you can download it from Docker Hub.
 
-# Text Classification API Setup Guide
 
-# Clone the Repository
+## Text Classification API Setup Guide
 
 To get started, clone the repository to your local machine:
 
