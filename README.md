@@ -28,7 +28,8 @@ docker build -t text-classification-api .
 
 ### Run the Container
 Once the build is complete, you can run the container:
-```docker run -p 8000:8000 text-classification-api
+```
+docker run -p 8000:8000 text-classification-api
 ```
 ### Access the API
 The API is now running at http://localhost:8000. You can interact with the API directly or use the automatic documentation provided by FastAPI at http://localhost:8000/docs for a more interactive experience.
