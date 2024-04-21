@@ -3,22 +3,24 @@
 elcome to the Text Classification API repository! This API utilizes a pre-trained Hugging Face Transformer model to perform sentiment analysis on text. It's built using FastAPI and containerized with Docker for easy deployment and scalability.
 
 ## Features
-Sentiment Analysis: Analyze text to determine if the sentiment is positive, negative, or neutral.
-FastAPI Framework: Fast and robust API framework with automatic interactive API documentation.
-Docker Integration: Containerized application for straightforward setup and deployment.
-Prerequisites
+- Sentiment Analysis: Analyze text to determine if the sentiment is positive, negative, or neutral.
+- FastAPI Framework: Fast and robust API framework with automatic interactive API documentation.
+- Docker Integration: Containerized application for straightforward setup and deployment.
+
+## Prerequisites
 Before you begin, ensure you have Docker installed on your machine. If you don't have Docker yet, you can download it from Docker Hub.
 
 ## Getting Started
 Clone the Repository
 Start by cloning this repository to your local machine:
 
-bash
-Copy code
+```bash
+# Clone the repository
 git clone https://github.com/your-github-username/text-classification-api.git
 cd text-classification-api
-Build the Docker Container
-Build the Docker image using the following command:
+
+# Build the Docker container
+docker build -t text-classification-api .
 
 bash
 Copy code
