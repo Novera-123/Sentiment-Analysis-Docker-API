@@ -17,7 +17,7 @@ Start by cloning this repository to your local machine:
 ```bash
 # Clone the repository
 git clone https://github.com/your-github-username/text-classification-api.git
-cd text-classification-api'''
+cd text-classification-api ```bash
 
 # Build the Docker container
 docker build -t text-classification-api .
