@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Docker-API
 
-elcome to the Text Classification API repository! This API utilizes a pre-trained Hugging Face Transformer model to perform sentiment analysis on text. It's built using FastAPI and containerized with Docker for easy deployment and scalability.
+This API utilizes a pre-trained Hugging Face Transformer model to perform sentiment analysis on text. It's built using FastAPI and containerized with Docker for easy deployment and scalability.
 
 ## Features
 - Sentiment Analysis: Analyze text to determine if the sentiment is positive, negative, or neutral.
